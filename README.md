@@ -11,6 +11,6 @@ ROM_URL后面换成自己想要的k40官方包链接，ROM_Version后面填写�
 
 4、点击那个星星Star,然后就开始自己处理了
 
-5、查看进度，在Actions菜单，打开make,Upload to WeTransfer中找到Download link:xxx就是下载地址
+5、查看进度，点击Actions菜单栏（如果有提示，点击绿色的I understandxxx按钮，然后重新第4步），打开make,Upload to WeTransfer中找到Download link:xxx就是下载地址
 
 6、注意，由于刷机包太大，打包时候进行了分卷压缩，下载链接会有两个，请下载两个压缩包，放在一起解压。
